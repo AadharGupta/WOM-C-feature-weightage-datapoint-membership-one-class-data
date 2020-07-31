@@ -1,3 +1,6 @@
+# WOM-C
+### Weightage based One class Membership measurement technique for Categorical features
+
 ## Data
 
 latestdata.csv.zip :    
